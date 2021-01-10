@@ -1,2 +1,2 @@
 # Flower-Image-Classifier
-Create a neural network model to predict what flower the image shows with Pytorch
+Create a neural network model with Pytorch to predict what kind of flower the picture show
